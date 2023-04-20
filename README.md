@@ -1,5 +1,3 @@
-#03_program_EvenOdd
-
 This program will let users enter a number and it will show them whether their number is even or odd, by using the modulo operator (%). 
 
 
